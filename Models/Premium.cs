@@ -23,7 +23,7 @@ public class Premium
     [DisplayName("Finish")]
     public DateTime EndDate { get; set; }
 
-    [DisplayName("Aluno")]
+    [DisplayName("Student")]
     [Required(ErrorMessage = "Invalid Student")]
     public int StudentId { get; set; }
 
