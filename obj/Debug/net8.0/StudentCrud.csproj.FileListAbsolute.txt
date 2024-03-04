@@ -136,3 +136,4 @@
 /Users/mauriciodolacio/Projects/StudentCrud/obj/Debug/net8.0/StudentCrud.pdb
 /Users/mauriciodolacio/Projects/StudentCrud/obj/Debug/net8.0/StudentCrud.genruntimeconfig.cache
 /Users/mauriciodolacio/Projects/StudentCrud/obj/Debug/net8.0/ref/StudentCrud.dll
+/Users/mauriciodolacio/Projects/StudentCrud/obj/Debug/net8.0/StudentCrud.sourcelink.json
